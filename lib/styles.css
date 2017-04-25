@@ -1,0 +1,14 @@
+body {
+  margin: auto;
+  font-family: sans-serif;
+}
+
+button {
+  border: none;
+  color: white;
+  background-color: teal;
+}
+
+input {
+  border: 1px solid gray;
+}
